@@ -1,6 +1,6 @@
 ### Mechanical Engineer/Programming Enthusiast 👋
 
-<img src="https://broadwayinfosys.com/blog/wp-content/uploads/2019/07/Mern-Stack-Development-Training-in-Nepal.jpg"/>
+<img src="https://www.solivatech.com/assets/uploads/media-uploader/mern-stack-development1622729001.png"/>
 
 - 🔭 I’m currently working on @Hami-Nepal
 - 🌱 I’m currently learning MERN STACK
