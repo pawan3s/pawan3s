@@ -3,3 +3,6 @@
 - 🔭 I’m currently working on @Food Delivery app -web and mobile
 - 💬 Ask me about Anything
 - 📫 How to reach me: @pawan3s
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abidadhikari" alt="abidadhikari" /></a> </p>
