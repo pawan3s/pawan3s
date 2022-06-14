@@ -12,7 +12,14 @@
 - 📫 Contact me **pawan29s123@gmail.com**
 
 <p></p>
+<p align="center">
+    <img src="https://github.com/pawan3s/pawan3s/blob/master/assets/eye-icon.svg"> <b>views</b>
+</p>
+<p align="center">
+    <img src="https://profile-counter.glitch.me/pawan3s/count.svg" />
+</p>
 
+<br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawan3s" alt="pawan3s" /></a> </p>
 
 <p align="left">
