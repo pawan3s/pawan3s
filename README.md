@@ -3,8 +3,6 @@
 
 - 🌱 I’m a **Robotics Enthusiast**,**Mechanical Engineer**,**Web Developer**,**Software Developer**
 
-- 🌱 I’m a **Mechanical Engineer**
-
 - 👨‍💻 My robotics and web dev projects are available at [https://portfoliopawan29s.web.app/](https://portfoliopawan29s.web.app/)
 
 - 📝 My few articles can be found on [https://hashnode.com/@pawan29s](https://hashnode.com/@pawan29s)
