@@ -1,13 +1,13 @@
 <h1 align="center">Pawan Subedi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan3s&label=Profile%20views&color=0e75b6&style=flat" alt="pawan3s" /> </p>
 
-- 🌱 I’m currently a **MERN Stack Developer**
+- 🌱 I’m currently a **Robotics Enthusiast**
 
 - 🌱 I’m a **Mechanical Engineer**
 
-- 👨‍💻 My projects are available at [https://portfoliopawan29s.web.app/](https://portfoliopawan29s.web.app/)
+- 👨‍💻 My robotics and web dev projects are available at [https://portfoliopawan29s.web.app/](https://portfoliopawan29s.web.app/)
 
-- 📝 My few articles cna be found on [https://hashnode.com/@pawan29s](https://hashnode.com/@pawan29s)
+- 📝 My few articles can be found on [https://hashnode.com/@pawan29s](https://hashnode.com/@pawan29s)
 
 - 📫 Contact me **pawan29s123@gmail.com**
 
